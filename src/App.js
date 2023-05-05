@@ -1,8 +1,4 @@
-// import Navbar from "./Navbar";
 
-// function App(){
-//   return <Navbar />
-// }
 
 import Navbar from "./components/Navbar"
 import Home from "./components/Home"
